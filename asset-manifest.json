@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/artist/static/css/main.eefc237f.css",
+    "main.js": "/artist/static/js/main.b9b9de6c.js",
+    "static/media/bg.jpg": "/artist/static/media/bg.7da3b6292a577fd25dc8.jpg",
+    "static/media/girl.jpg": "/artist/static/media/girl.1b75278e4e66f8eb7a1c.jpg",
+    "static/media/Screenshot_2023_1003_192228.jpg": "/artist/static/media/Screenshot_2023_1003_192228.1d2c37dce9a6efe68927.jpg",
+    "static/media/Screenshot_2023_1003_191651.jpg": "/artist/static/media/Screenshot_2023_1003_191651.f81b20f3815ee9a538b9.jpg",
+    "static/media/Screenshot_2023_1003_192133.jpg": "/artist/static/media/Screenshot_2023_1003_192133.ab7cbdd1069c96bbcd0e.jpg",
+    "static/media/virat-sketch.jpg": "/artist/static/media/virat-sketch.0042e1e899ebb09b72a7.jpg",
+    "static/media/Screenshot_2023_1003_191914.jpg": "/artist/static/media/Screenshot_2023_1003_191914.479626d3bb4f1976b565.jpg",
+    "static/media/addhul-kaalam-sketch.jpg": "/artist/static/media/addhul-kaalam-sketch.b31de9940359b985c425.jpg",
+    "static/media/PIG -logo.jpg": "/artist/static/media/PIG -logo.16504440f686a05f9834.jpg",
+    "index.html": "/artist/index.html",
+    "main.eefc237f.css.map": "/artist/static/css/main.eefc237f.css.map",
+    "main.b9b9de6c.js.map": "/artist/static/js/main.b9b9de6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc237f.css",
+    "static/js/main.b9b9de6c.js"
+  ]
+}
